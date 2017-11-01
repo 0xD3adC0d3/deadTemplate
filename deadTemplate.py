@@ -1,7 +1,13 @@
 #!/usr/bin/python
 
 '''
+Usage: deadTemplate.py [-h] [-v]
 
+Description
+
+optional arguments:
+  -h, --help     show this help message and exit
+  -v, --verbose  Enable verbose output
 '''
 
 import argparse
